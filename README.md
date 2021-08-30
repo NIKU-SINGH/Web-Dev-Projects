@@ -9,11 +9,6 @@ List of Projects on Web-Dev
              <img src="all-images/Foodie.png"/>
              <p><a href="https://niku-singh.github.io/Foodie-Restaurant/">Foodie Website</a></p>
           </td>
-      </tr>
-</table>
-
-<table width=33% align="right">
-      <tr>
           <td align="center">
              <p><a href="https://github.com/NIKU-SINGH/Music-Player">Music Player Repo Link</a></p>
              <img src="all-images/Music-Player.png"/>
